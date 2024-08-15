@@ -13,7 +13,7 @@ The WhatsApp Chat Analyzer is a Python application built using Streamlit, Matplo
 * Pandas
 * Seaborn  
 **Deployment:**  
-  The chat analyzer is deployed using Streamlit Community Cloud.  You can access it here: [https://hydrangium-whatsappchat-analyzer-app-e3zymu.streamlit.app/](https://hydrangium-whatsappchat-analyzer-app-e3zymu.streamlit.app/){:target="_blank"}.  
+  The chat analyzer is deployed using Streamlit Community Cloud.  You can access it here: [https://hydrangium-whatsappchat-analyzer-app-e3zymu.streamlit.app/](https://hydrangium-whatsappchat-analyzer-app-e3zymu.streamlit.app/) Please copy the link and paste it into a new tab to access the application.  
   **Acknowledgements:**
   * Streamlit community for the powerful web application framework
   * Matplotlib, Pandas, and Seaborn for data visualization capabilities
